@@ -10,7 +10,7 @@ payloads = {
 }
 
 # 테스트할 URL
-url = "http://jnhs.kr/"
+url = ""
 
 
 form_data = {
