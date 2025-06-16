@@ -1,3 +1,5 @@
+# 해당 코드로 실제 웹사이트에 적용시 발생되는 불이익은 책임지지 않습니다. 사용시 주의 바랍니다.
+
 import requests
 from bs4 import BeautifulSoup
 import re
